@@ -37,6 +37,7 @@ Perform actions using the cards in your *village* (i.e. face-up in front of you)
   - The attacking Thugs cannot attack or defend until the end of your next turn. Indicate this by turning the cards sideways.
 5. **Seduce:** Your Lover seduces a rival character, keeping them "busy" for a turn.
   - The target must be a Miner or Thug.
+  - The Lover cannot be part of a pair.
   - You *can* seduce a character that's paired with a Lover, but the attacking Lover must be stronger than the defending Lover.
   - The target cannot be used until the end of its owner's next turn. Indicate this by turning the card sideways.
   - The defending Lover is returned to the owner's hand.
