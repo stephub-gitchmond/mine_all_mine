@@ -33,13 +33,19 @@ Perform actions using the cards in your *village* (i.e. face-up in front of you)
   - The diamond goes back in the mine.
 4. **Kidnap:** Your Thugs kidnap another character!
   1. Announce the target character.
-  2. Indicate which of your thugs are participating. Their total strength must be greater than the total strength of the defending thugs.
+  2. Indicate which of your thugs are participating. Their total strength must be greater than the total strength of the defending thugs (if the target is a Thug, include them in the defenders total).
   3. Add the target character to your hand.
-  4. The attacking Thugs cannot attack or defend until the end of your next turn. Turn them sideways to indicate this.
+  4. The attacking Thugs cannot attack or defend until the end of your next turn. Indicate this by turning the cards sideways.
+5. **Seduce:** Your Lover seduces a rival character, keeping them "busy" for a turn.
+  - The target must be a Miner or Thug.
+  - You can seduce a character that's paired with a Lover, but only if the attacking Lover is stronger than the defending Lover.
+  - The target cannot be used until the end of its owner's next turn. Indicate this by turning the card sideways.
+  - The defending Lover is returned to the owner's hand.
 
 ## Lovers
 At any point during your turn, you can pair a Lover with a Miner or Thug.
-- both characters must be in your village
-- neither character can be part of a couple already
+- Both characters must be in your village.
+- Neither character can be part of a couple already.
+- A character paired with a Lover gains +1 to its strength.
 
-A pair cannot be split up, except if one member is kidnapped.
+A pair cannot be split up, except if one member is kidnapped or seduced.
