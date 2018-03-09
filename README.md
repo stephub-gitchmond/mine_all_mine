@@ -24,8 +24,8 @@ Perform actions using the cards in your *village* (i.e. face-up in front of you)
 
 1. **Play another card:** Play a card from your hand to your village.
 2. **Mine:** Take a diamond from the centre and add it to your village.
- - The diamond's value cannot be higher than the total strength of your Miners.
- - The *Ace of Diamonds* is special, and requires a total of 25 to mine.
+  - The diamond's value cannot be higher than the total strength of your Miners.
+  - The *Ace of Diamonds* is special, and requires a total of 25 to mine.
 3. **Bribe:** Pay one or more diamonds to attract a character from a rival village.
   - The diamonds must be of equal or higher value than the target.
   - The target cannot be part of a couple.
